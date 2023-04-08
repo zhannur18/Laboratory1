@@ -15,8 +15,8 @@ public class Main {
     }
 }
 /*
-@ findMininum -definition of min
+@ findMininum - definition of min
+@ n- length of array
 @ arr - array
-@ n - lenght of array
-@return - returning minimum of function
+@ return - returning minimum of function
  */
